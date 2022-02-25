@@ -1,0 +1,24 @@
+.header {
+    height: 10vh;
+    background-color: darkgray;
+  }
+  
+  .navbar {
+    max-width: 1100px;
+    height: 10vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  input {
+    height: 60%;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  input:focus {
+    outline: none;
+  }
